@@ -23,6 +23,13 @@
 - 🐾 Comments from the three Meridi cats
 - 🌐 日本語 / English · 🌙 Dark / ☀️ Normal · m / ft / fathoms
 
+## 🌌 ↕ 🪨 ↕ 🌊 Sky, Land and Sea / 空・陸・海
+MeridiDepths looks **down** into the sea. Its sister tools take you the rest of the way:
+- 🌌 [MeridiStars](https://meridibrand.com/stars/) — look up at the night sky from 119 places
+- 🪨 [MeridiGround](https://meridibrand.com/ground/) — from your doorstep up to the edge of space and down to Earth's core
+
+MeridiDepths は海の底へ潜る道具です。🌌 MeridiStars は空を見上げ、🪨 MeridiGround は足もとから宇宙の手前と地球の中心まで、いっしょに旅ができます。
+
 ## Notes / ご注意
 - Numbers are approximate; habitat depths and records vary between sources.
   数字はだいたいの目安です。資料や調査によって幅があります。
@@ -35,18 +42,25 @@
 - Only an anonymous page-view count via [GoatCounter](https://www.goatcounter.com/).
 
 ## Changelog
-### v1.0.0 — 2026-11-12
-- First release / 初回リリース
+### 🌊 v1.0.0 — 2026-11-12
+- First release: scroll from the sea surface down to about 10,935 m
+- 🌍 11 deep places, including the deepest point of all five oceans
+- 📖 230+ entries in the guide: sea life, shipwrecks, human records, history, "why?" trivia, comparisons and cat comments
+- 📊 Live gauges for depth, pressure, temperature and light
+- 🌅 Morning / noon / dusk light; 📍 map links for trenches and shipwrecks
+- 🌐 Japanese / English, 🌙 Dark / ☀️ Normal, m / ft / fathoms
 
 ## Support
 ☕ **https://buymeacoffee.com/meridius**
 
 ## Other tools by Meridi Brand
+- 📅 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls across time zones
+- 🐾 [MeridiLingo](https://meridibrand.com/lingo/) — 760+ real-world English expressions & AI prompts
+- 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander for Windows
 - 🌌 [MeridiStars](https://meridibrand.com/stars/) — planetarium
-- 🎮 [MeridiPlay](https://meridibrand.com/play/) — browser games
-- 🗓 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls
-- 🔤 [MeridiLingo](https://meridibrand.com/lingo/) — phrase book
-- ⌨️ [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander
+- 🪨 [MeridiGround](https://meridibrand.com/ground/) — from the sky to Earth's core
+- 🎮 [MeridiPlay](https://meridibrand.com/play/) — 18 free browser games
+- 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
 ## License
