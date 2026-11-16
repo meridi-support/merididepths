@@ -57,10 +57,11 @@ MeridiDepths は海の底へ潜る道具です。🌌 MeridiStars は空を見�
 - 📅 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls across time zones
 - 🐾 [MeridiLingo](https://meridibrand.com/lingo/) — 760+ real-world English expressions & AI prompts
 - 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander for Windows
-- 🌌 [MeridiStars](https://meridibrand.com/stars/) — planetarium
 - 🪨 [MeridiGround](https://meridibrand.com/ground/) — from the sky to Earth's core
+- 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
 - 🎮 [MeridiPlay](https://meridibrand.com/play/) — 18 free browser games
 - 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
+- 🧰 [Meridi Tools](https://meridibrand.com/tools/) — ad-free toolbox: timer, text cleaner, dice, QR codes, photo location remover
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
 ## License
